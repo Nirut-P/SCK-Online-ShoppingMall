@@ -10,7 +10,7 @@
 | | ออกแบบ 1 Test Scenario บน Miro | 30 นาที | X | Test Scenario บน Miro จำนวน 1 Test Scenario |
 | วันอังคารที่ 02 เมษายน 2567 | ศึกษา Robot Framework | 120 นาที | X |  |
 | วันพุธที่ 03 เมษายน 2567| เขียน Robot Framework ระดับอนุบาล บน VScode และ อัปขึ้น Github | 180 นาที | X |  Code Robot Framework ระดับอนุบาล บน Github |
-| วันพฤหัสที่ 04 เมษายน 2567 | เเขียน Robot Framework ระดับ ป.ตรี บน VScode และ อัปขึ้น Github | 180 นาที | X | ECode Robot Framework ระดับอนุบาล บน Github |
+| วันพฤหัสที่ 04 เมษายน 2567 | เเขียน Robot Framework ระดับ ป.ตรี บน VScode และ อัปขึ้น Github | 180 นาที | X | ECode Robot Framework ระดับ ป.ตรี บน Github |
 | วันศุกร์ที่ 05 เมษายน 2567 | Buffer | X | X | X |
 
 
