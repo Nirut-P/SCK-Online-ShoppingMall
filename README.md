@@ -5,7 +5,7 @@
 | วันที่| งานที่ทำ | เวลาที่ใช้โดยประมาณ | เวลาที่ใช้จริง |สิ่งที่ได้ออกมา
 |-----------|-------|----------------------------|-------------|--------|
 | วันศุกร์ที่ 29 มีนาคม 2567 | เขียนแผนใน README และ อัปขึ้น Github | 60 นาที | 54 นาที| แผนใน README บน Github |
-| | เขียน E2E Biz Process บน Miro | 30 นาที | X | E2E Biz Process บน Miro |
+| | เขียน E2E Biz Process บน Miro | 30 นาที | 26 | E2E Biz Process บน Miro |
 | วันจันทร์ที่ 01 เมษายน 2567| วิเคราะห์ ออกแบบ Test cases บน Miro  | 60 นาที | X | Test cases บน Miro จำนวน X Cases |
 | | ออกแบบ 1 Test Scenario บน Miro | 30 นาที | X | Test Scenario บน Miro จำนวน 1 Test Scenario |
 | วันอังคารที่ 02 เมษายน 2567 | ศึกษา Robot Framework | 120 นาที | X |  |
